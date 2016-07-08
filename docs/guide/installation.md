@@ -15,3 +15,6 @@ or add
 "yiisoft/yii2-httpclient": "*"
 ```
 to the `require` section of your composer.json.
+
+
+then run "composer update" in the right click menu on windows, maybe need composer token from github if your system need update.
